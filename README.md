@@ -68,4 +68,4 @@ session time_out is 3600 seconds.
 const double SESSION_TIME_SECOND = 3600;
 ````
 
-see example.
+
