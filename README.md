@@ -3,6 +3,9 @@ support session middleware for crow framework
 
 this middleware is support session for crow framework.
 
+## Required
+cryptopp (https://github.com/weidai11/cryptopp)
+
 ## example
 
 ```c++
