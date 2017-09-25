@@ -1,6 +1,4 @@
 # crow_security
-support session middleware for crow framework
-
 this middleware is support session for crow framework.
 
 ## Required
